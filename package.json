@@ -1,0 +1,17 @@
+{
+  "name": "microservices",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "jsonwebtoken": "^7.4.3",
+    "nconf": "^0.8.4",
+    "nodemon": "^1.12.0",
+    "request": "^2.81.0"
+  }
+}
